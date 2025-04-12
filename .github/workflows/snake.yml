@@ -2,18 +2,17 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos los días a medianoche
+    - cron: "0 0 * * *" # Corre todos los días a medianoche
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
           github_user_name: escalera2
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3
