@@ -8,7 +8,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <!-- Cambia esta imagen por tu propio avatar si tienes otro -->
-  <img align="right" alt="Escalera-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/https://avatars.githubusercontent.com/u/106820482?s=400&u=cf22d1a9c4f731541bc8cef09f1ba29db4dfbc5d&v=4 ?v=4">
+ <img align="right" alt="Escalera-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/106820482?v=4">
+
 </div>
   
   ##
