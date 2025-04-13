@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 
-![Snake animation](https://raw.githubusercontent.com/escalera2/escalera2/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/escalera2/escalera2/blob/output/github-snake-dark.svg)
 
 
 </div>
